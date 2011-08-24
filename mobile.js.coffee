@@ -1,3 +1,8 @@
+###
+
+Doesn't quite work yet - use mobile.js for now
+
+###
 jQuery ->
 
   imgs = jQuery('#topStories')
